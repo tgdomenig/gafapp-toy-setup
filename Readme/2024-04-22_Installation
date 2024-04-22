@@ -1,0 +1,17 @@
+
+
+npx create-expo-app gafapp4
+cd gafapp4
+
+npx expo install @react-navigation/native @react-navigation/native-stack
+npx expo install expo-splash-screen
+
+expo:
+-----
+created new project 'expo-toy-setup'
+
+github:
+-------
+git init
+// create new repo on github home page
+git remote add origin https://github.com/tgdomenig/gafapp-toy-setup
